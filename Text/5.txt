@@ -1,0 +1,22 @@
+Parte A
+Sigue los siguientes pasos:
+Crea un nuevo repositorio público en Github Desktop llamado Github_NombreApellido_Clase. Por ejemplo: Github_DaniGomez_2D
+Inicialízalo con un Readme.md
+Elige un tipo de Licencia y el contenido del archivo .gitignore
+
+Parte B
+Sigue los siguientes pasos:
+Accede a la carpeta local del repositorio y crea las siguientes carpetas:
+Images: Añade 3 imágenes en jpg o png. *
+Audio: Añade un clip de audio en mp3 o similar. *
+Text: Crea un archivo de texto y escribe algo dentro.
+Realiza un Commit de los cambios y haz un Push al servidor.
+
+Parte C
+Sigue los siguientes pasos:
+Edita una de las 3 imágenes usando Photoshop y guarda cambios.
+Edita el archivo de texto añadiendo un texto adicional.
+Revisa los cambios realizados en Github Desktop.
+Realiza un Commit de los cambios y haz un Push al servidor.
+
+Entrega la URL del repositorio que has usado para los ejercicios
